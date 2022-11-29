@@ -3,7 +3,7 @@
 ![bannercon girasol GitHub](https://user-images.githubusercontent.com/92646634/203511322-900fc51e-8099-4367-8bda-5439ef8ab2a7.png)
 
 Sobre mi✍️
-- :large_orange_diamond: Soy desarroladora Web Full Stack con formación como Profesora de Matemática y Profesora de 1 y 2 EGB.
+- :large_orange_diamond: Soy desarrolladora Web Full Stack con formación como Profesora de Matemática y Profesora de 1 y 2 EGB.
 Tengo experiencia trabajando en NodeJS, React, Redux, SQL y no SQL entre otras tecnologías del sector.
  
 - :large_orange_diamond:Soy proactiva con actitud positiva, aprendizaje ágil y adaptabilidad. Capacidad para la comunicación, responsabilidad ante los proyectos y trabajos. Habilidad para la resolución de problemas.
