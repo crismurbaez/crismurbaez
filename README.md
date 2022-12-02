@@ -13,11 +13,13 @@ Tengo experiencia trabajando en NodeJS, React, Redux, SQL y no SQL entre otras t
 ![Food](https://user-images.githubusercontent.com/92646634/205400509-dd28164d-5fa0-4a98-9bbb-c3ff84ae08d2.png)
 
 
-- :large_orange_diamond:Fui parte de un grupo de trabajo en el cual diseñamos y desarrollamos un E-commerce para la compra de ropa y accesorios. Se desarrolló de manera colaborativa con reuniones diarias y realizando sprints semanales a un product owner. Catálogo de productos, login de usuarios, carrito de compras, checkout de la orden, dashboard de admin para carga y edición de productos, pasarela de pago, entre otras. Se implementaron metodologías ágiles SCRUM y control de versiones con Github
+- :large_orange_diamond:Fui parte de un grupo de trabajo en el cual diseñamos y desarrollamos un E-commerce para la compra de ropa y accesorios. Se desarrolló de manera colaborativa con reuniones diarias y realizando sprints semanales a un product owner. Catálogo de productos, login de usuarios, carrito de compras, checkout de la orden, dashboard de admin para carga y edición de productos, pasarela de pago, entre otras. Se implementaron metodologías ágiles SCRUM y control de versiones con Github.
+https://clothes-4-crew.vercel.app/
 
 ![Clothes1](https://user-images.githubusercontent.com/92646634/205400534-c2d0f492-a23e-4f40-9ca1-ea12a9cbbed1.png)
 
-- :large_orange_diamond:Mi portafolio web personal, donde te cuento un poco sobre mí, las habilidades técnicas que he adquirido y los proyectos desarrollados.
+- 🔭Mi portafolio web personal, donde te cuento un poco sobre mí, las habilidades técnicas que he adquirido y los proyectos desarrollados.
+https://my-portfolio-sigma-ashy.vercel.app/
 
 ![Portfolio](https://user-images.githubusercontent.com/92646634/205400709-72856677-964b-4035-af25-6b605af3be8f.png)
 
