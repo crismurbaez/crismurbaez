@@ -9,6 +9,7 @@ Tengo experiencia trabajando en NodeJS, React, Redux, SQL y no SQL entre otras t
 - :large_orange_diamond:Soy proactiva con actitud positiva, aprendizaje ágil y adaptabilidad. Capacidad para la comunicación, responsabilidad ante los proyectos y trabajos. Habilidad para la resolución de problemas.
 
 - :large_orange_diamond:En mi Proyecto individual diseñé y desarrollé una app de recetas de comidas utilizando React, Redux, CSS puro, Node.js, Express y Sequelize. En la aplicación se pueden ver  distintas recetas de comidas junto con información relevante de las mismas utilizando la api externa spoonacular. Tiene un proceso de filtrados y ordenamientos. Se pueden buscar recetas por su nombre. Y crear nuevas recetas.
+https://github.com/crismurbaez/fishGame.git
 
 ![Food](https://user-images.githubusercontent.com/92646634/205400509-dd28164d-5fa0-4a98-9bbb-c3ff84ae08d2.png)
 
