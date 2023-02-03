@@ -20,7 +20,7 @@ Deploy: https://clothes-4-crew.vercel.app/
 ![Clothes1](https://user-images.githubusercontent.com/92646634/205400534-c2d0f492-a23e-4f40-9ca1-ea12a9cbbed1.png)
 
 - 🔭Mi portafolio web personal, donde te cuento un poco sobre mí, las habilidades técnicas que he adquirido y los proyectos desarrollados.
-Deploy: https://my-portfolio-sigma-ashy.vercel.app/
+Deploy:https://cristinamurguia.xyz
 
 ![Portfolio](https://user-images.githubusercontent.com/92646634/205400709-72856677-964b-4035-af25-6b605af3be8f.png)
 
