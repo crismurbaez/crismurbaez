@@ -13,6 +13,7 @@ Deploy:https://cristinamurguia.xyz
 
 ![Portfolio](https://user-images.githubusercontent.com/92646634/205400709-72856677-964b-4035-af25-6b605af3be8f.png)
 
+
 - :large_orange_diamond:Página Web de belleza de manos, pies y pestañas. Front-end desarrollado con el lenguaje Javascript y framework VueJs.
 Deploy Front-End: https://mariana-nails.vercel.app/
 Deploy Back-End: https://back-end-mariana-nails.vercel.app/
@@ -20,8 +21,10 @@ Deploy Back-End: https://back-end-mariana-nails.vercel.app/
 ![Mariana_Nails](https://github.com/crismurbaez/crismurbaez/assets/92646634/9d268f55-efc0-4966-b6d5-540003f64159)
 
 
+- :large_orange_diamond:E-commerce 'Clothes4Crew' de ropa y accesorios. Se implementaron metodologías ágiles SCRUM y control de versiones con Github
 
 ![Clothes1](https://user-images.githubusercontent.com/92646634/205400534-c2d0f492-a23e-4f40-9ca1-ea12a9cbbed1.png)
+
 
 - :large_orange_diamond:En mi Proyecto individual diseñé y desarrollé una app de recetas de comidas utilizando React, Redux, CSS puro, Node.js, Express y Sequelize. En la aplicación se pueden ver  distintas recetas de comidas junto con información relevante de las mismas utilizando la api externa spoonacular. Tiene un proceso de filtrados y ordenamientos. Se pueden buscar recetas por su nombre. Y crear nuevas recetas.
 Video: https://www.youtube.com/watch?v=S9eVNDpX4xU
