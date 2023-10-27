@@ -32,7 +32,7 @@ Video: https://www.youtube.com/watch?v=S9eVNDpX4xU
 ![Food](https://user-images.githubusercontent.com/92646634/205400509-dd28164d-5fa0-4a98-9bbb-c3ff84ae08d2.png)
 
 
-- :large_orange_diamond: Tecnologías en las que tengo experiencia:	HTML, CSS, Javascript, React, Redux, Node.js, Express, SQL - PostgreSQL, no-SQL - MongoDb. ORM – Sequelize - Mongoose, metodologías ágiles - SCRUM, Git y Github, Deployment.
+- :large_orange_diamond: Tecnologías en las que tengo experiencia:	HTML, CSS, Javascript, React, Redux, Node.js, Express, Python, Flask, SQL - PostgreSQL, no-SQL - MongoDb. ORM – Sequelize - Mongoose, metodologías ágiles - SCRUM, Git y Github, Deployment.
 
 Pueden encontrarme también:
 
