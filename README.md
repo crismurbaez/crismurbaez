@@ -9,14 +9,14 @@ Tengo experiencia trabajando en NodeJS, React, Redux, SQL y no SQL entre otras t
 - :large_orange_diamond:Soy proactiva con actitud positiva, aprendizaje ágil y adaptabilidad. Capacidad para la comunicación, responsabilidad ante los proyectos y trabajos. Habilidad para la resolución de problemas.
 
 - - 🔭Mi portafolio web personal, donde te cuento un poco sobre mí, las habilidades técnicas que he adquirido y los proyectos desarrollados.
-Deploy:https://cristinamurguia.xyz
+Front-End:https://cristinamurguia.xyz Back-End: https://back-portfolio-cris.vercel.app/
 
 ![Portfolio](https://user-images.githubusercontent.com/92646634/205400709-72856677-964b-4035-af25-6b605af3be8f.png)
 
 
 - :large_orange_diamond:Página Web de belleza de manos, pies y pestañas. Front-end desarrollado con el lenguaje Javascript y framework VueJs.
-Deploy Front-End: https://mariana-nails.vercel.app/
-Deploy Back-End: https://back-end-mariana-nails.vercel.app/
+Front-End: https://mariana-nails.vercel.app/
+Back-End: https://back-end-mariana-nails.vercel.app/
 
 ![Mariana_Nails](https://github.com/crismurbaez/crismurbaez/assets/92646634/9d268f55-efc0-4966-b6d5-540003f64159)
 
