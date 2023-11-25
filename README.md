@@ -39,7 +39,7 @@ Pueden encontrarme también:
 
 ![imagen](https://user-images.githubusercontent.com/92646634/203498666-25fe3139-4b0e-4f5a-9434-e6c2433ef0ca.png) http://www.linkedin.com/in/cristina-murguia
 
-![imagen](https://user-images.githubusercontent.com/92646634/203500265-dc4a33c1-5fe7-4a66-bca4-f1202f9240bf.png) clmbjcm@gmail.com
+![imagen](https://user-images.githubusercontent.com/92646634/203500265-dc4a33c1-5fe7-4a66-bca4-f1202f9240bf.png) cristinalauramurguia@gmail.com
 
 
 <!--
