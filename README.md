@@ -41,7 +41,6 @@ Pueden encontrarme también:
 
 ![imagen](https://user-images.githubusercontent.com/92646634/203500265-dc4a33c1-5fe7-4a66-bca4-f1202f9240bf.png) cristinalauramurguia@gmail.com
 
-
 <!--
 **crismurbaez/crismurbaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
