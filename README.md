@@ -10,7 +10,7 @@ Tengo experiencia trabajando en NodeJS, React, Redux, SQL y no SQL entre otras t
 - :large_orange_diamond:Soy proactiva con actitud positiva, aprendizaje ágil y adaptabilidad. Capacidad para la comunicación, responsabilidad ante los proyectos y trabajos. Habilidad para la resolución de problemas.
 
 - - 🔭Mi portafolio web personal, donde te cuento un poco sobre mí, las habilidades técnicas que he adquirido y los proyectos desarrollados.
-Front-End:https://cristinamurguia.xyz Back-End: https://back-portfolio-cris.vercel.app/
+Front-End:(https://cristinamurguia.vercel.app/) Back-End: https://back-portfolio-cris.vercel.app/
 
 ![Portfolio](https://user-images.githubusercontent.com/92646634/205400709-72856677-964b-4035-af25-6b605af3be8f.png)
 
