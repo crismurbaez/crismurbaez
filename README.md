@@ -1,7 +1,7 @@
 ### Hola 👋 bienvenidos, soy Cristina
 
 
-![imagencabecera](https://github.com/crismurbaez/crismurbaez/assets/92646634/4ae0fe3c-1aa8-4e2e-8f4f-71f6d090a043)
+<img width="1584" height="396" alt="banner_linkedin_2026 (23)" src="https://github.com/user-attachments/assets/9d80c191-b985-4ad0-ae96-1b2d93bb1240" />
 
 Sobre mi✍️
 - :large_orange_diamond: Soy desarrolladora Web Full Stack con formación como Profesora de Matemática y Profesora de 1 y 2 EGB.
