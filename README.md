@@ -4,7 +4,7 @@
 <img width="1584" height="396" alt="banner_linkedin_2026 (23)" src="https://github.com/user-attachments/assets/9d80c191-b985-4ad0-ae96-1b2d93bb1240" />
 
 Sobre mí 🚀
-Soy una Full Stack Developer con sólida experiencia en la creación de arquitecturas escalables, seguridad de datos y modernización de sistemas críticos. He liderado soluciones técnicas complejas para los sectores de Legaltech, Insurtech y Retail, priorizando siempre la estabilidad y la eficiencia en entornos de alta transaccionalidad.
+Soy una Full Stack Developer con experiencia en la creación de arquitecturas escalables, seguridad de datos y modernización de sistemas críticos. He liderado soluciones técnicas complejas para los sectores de Legaltech, Insurtech y Retail, priorizando siempre la estabilidad y la eficiencia en entornos de alta transaccionalidad.
 
 Disfruto el desafío de tomar sistemas robustos y conectarlos con tecnologías modernas, asegurando la integridad del código en cada etapa del desarrollo. Actualmente, estoy trasladando mi experiencia en lógica de negocio hacia el ecosistema mobile.
 
